@@ -12,6 +12,7 @@ var firebaseConfig = {
 
 
 
+
   firebase.auth.Auth.Persistence.LOCAL;
 
 
